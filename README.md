@@ -148,3 +148,6 @@ String voice;
         lcd.print("Password Please"); //Reset the LCD display
         }
 
+#OUTPUT
+
+As an output of this system the system will work by recognizing the voice .
